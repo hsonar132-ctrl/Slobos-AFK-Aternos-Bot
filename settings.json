@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Harsha_Lover",
-    "password": "26.2",
+    "username": "slobot00",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Un_Known.aternos.me",
     "port": 42699,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
